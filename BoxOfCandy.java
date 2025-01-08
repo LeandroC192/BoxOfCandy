@@ -10,14 +10,18 @@ public class BoxOfCandy
     * Precondition: col is a valid column index in box.
     */
     public boolean moveCandyToFirstRow(int col)
-    { /* to be implemented in part (a) */ }
+    { 
+        /* to be implemented in part (a) */ 
+    }
 
     /**
     * Removes from box and returns a piece of candy with flavor specified by the parameter, or
     * returns null if no such piece is found, as described in part (b)
     */
     public Candy removeNextByFlavor(String flavor)
-    { /* to be implemented in part (b) */ }
+    { 
+        /* to be implemented in part (b) */ 
+    }
 
     // There may be instance variables, constructors, and methods that are not shown.
 }
