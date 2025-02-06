@@ -16,7 +16,7 @@ public class Candy
     public String getFlavor() 
     {
         /* implementation not shown */ 
-        return "";
+        return flavor;
     }
 
     // There may be instance variables, constructors, and methods that are not
