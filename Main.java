@@ -29,5 +29,9 @@ public class Main
     System.out.println(d);
     System.out.println(d.removeNextByFlavor("Cherry"));
     System.out.println(d);
+    System.out.println(d.removeNextByFlavor("Lime"));
+    System.out.println(d);
+    System.out.println(d.removeNextByFlavor("Grape"));
+    System.out.println(d);
     }
 }
